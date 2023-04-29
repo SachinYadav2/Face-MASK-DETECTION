@@ -1,1 +1,1 @@
-# Face-MASK-DETECTION
+# Face-MASK-Classification
